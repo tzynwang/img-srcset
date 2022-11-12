@@ -14,3 +14,8 @@
   color: #d63384;
   word-wrap: break-word;
 }
+
+.img {
+  max-height: 60vh;
+  object-fit: cover;
+}
